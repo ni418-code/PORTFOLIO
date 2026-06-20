@@ -1,6 +1,6 @@
-# FUTURE_FS_01 — Personal Professional Portfolio Website
+# Personal Professional Portfolio Website
 
-**Task 1 | Future Interns | Full-Stack Web Development Track (FS)**
+**Full-Stack Web Development Track (FS)**
 
 ## 🌐 Live Demo
 [View Portfolio →](https://future-fs-01-portfolio-wl9y.onrender.com)
@@ -26,13 +26,12 @@
 
 ## 📁 Files
 ```
-FUTURE_FS_01/
+PORTFOLIO/
 ├── index.html   ← Complete single-file portfolio (image embedded)
 └── README.md    ← This file
 ```
 
 ## 👩‍💻 Developer
 **Nirupa Natakarani** — B.Tech CSE (AI & Data Science), VIT-AP University  
-Intern @ Future Interns · InAmigos Foundation · NoviTech
+Intern @ Infosys-Springboard
 
-*Task 1 · Future Interns Full-Stack Internship · Track Code: FS*
